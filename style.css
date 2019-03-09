@@ -155,12 +155,12 @@ main>.userCard .text dd {
 }
 
 main>.userCard .text dt {
-    width: 30%;
+    width: 40%;
     font-weight: bold;
 }
 
 main>.userCard .text dd {
-    width: 70%;
+    width: 60%;
     color: #9A9A9A;
 }
 
