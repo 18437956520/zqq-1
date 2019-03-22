@@ -57,7 +57,7 @@ li {
     font-weight: bold;
     display: block;
     border-bottom: 3px solid transparent;
-    transition: 1s;
+    transition: 0.8s;
 }
 
 .header>nav>ul>li a:hover {
